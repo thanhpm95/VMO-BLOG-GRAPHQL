@@ -4,7 +4,7 @@ WHAT:
 - Ngôn ngữ để thiết kế API, tạo query
 - Nhận nhiều dữ liệu hơn chỉ với 1 request
 - Nhanh hơn với nhiều công cụ hỗ trợ dev
-WHY:
+-WHY:
 - Vì kiến trúc REST có nhiều hạn chế vì dụ như là:
   + Cần nhiều truy quét nếu ta chọc sâu vào dữ liệu. Có thể hiểu nôm na là nếu như cần tìm kiếm bài post của từng người. Thì ta cần những API sau:
     - GET users/:id
